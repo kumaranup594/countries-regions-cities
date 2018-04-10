@@ -6,10 +6,12 @@
 
 **Linux/OSX command line:**
     
-    $ gunzip world.sql.gz
-    $ mysql -u myusername -p mypassword
+    $ gunzip world.sql.gz or right click on zip and extra it
+    $ mysql -u myusername -p mypassword or import through phpMyAdmin If you are working on it.
     mysql> use mydatabase;
     mysql> source world.sql;
+    
+    
 
 **Windows**
 
